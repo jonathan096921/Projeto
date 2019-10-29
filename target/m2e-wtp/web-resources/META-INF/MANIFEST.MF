@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Projeto
+Implementation-Version: 1.0
+Built-By: Casa
+Implementation-Vendor-Id: br.com.jonathan.projeto
+Build-Jdk: 1.8.0_211
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
